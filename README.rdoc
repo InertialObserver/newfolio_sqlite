@@ -10,7 +10,9 @@ Jessi Iler (github.com/InertialObserver)
 
 # Installation
 
-Install by first cloning the repository: git clone github.com/InertialObserver/newfolio.git
+Install by first cloning the repository: git clone https://github.com/InertialObserver/newfolio_sqlite.git
+
+Navigate to the file, Run: cd newfolio_sqlite
 
 At the command line, Run: bundle install
 
